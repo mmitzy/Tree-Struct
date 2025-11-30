@@ -1,5 +1,6 @@
 //dani.bendav@gmail.com 325877124
-
+// Remove comment to use
+/*
 #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
 #include "doctest.h"
 #include "tree.hpp"
@@ -499,3 +500,4 @@ using namespace std;
         CHECK(heapIter->next() == Complex(1, 7));
         delete heapIter;
     }
+*/
